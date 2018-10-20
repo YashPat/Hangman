@@ -1,0 +1,2 @@
+# MP1_Hangman
+You are to implement the word game Hangman in which the player will guess the letters until the correct word is guessed or he/she has had seven guesses. The program will be implemented with a HangWord class that is constructed with a String instance variables for the word and for guessed word which will initially contain dummy characters like _ _ or * *, and a variable for the number of guesses.
